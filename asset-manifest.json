@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/icepy-clone/static/css/main.463cdddd.css",
+    "main.js": "/icepy-clone/static/js/main.3c544bdc.js",
+    "static/media/bg.jpg": "/icepy-clone/static/media/bg.f04a04441cb0303095ec.jpg",
+    "static/media/avatar.jpg": "/icepy-clone/static/media/avatar.3efed7160f1212167c83.jpg",
+    "index.html": "/icepy-clone/index.html",
+    "main.463cdddd.css.map": "/icepy-clone/static/css/main.463cdddd.css.map",
+    "main.3c544bdc.js.map": "/icepy-clone/static/js/main.3c544bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463cdddd.css",
+    "static/js/main.3c544bdc.js"
+  ]
+}
